@@ -1,5 +1,5 @@
 
-# 🧠 Mindflip - AI-Powered Mental Wellness Platform
+# 🧠 Mindful - AI-Powered Mental Wellness Platform
 
 > Transform your mental wellness journey with AI-powered insights, gamified assessments, and blockchain-verified achievements.
 
@@ -91,7 +91,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/alter005/MindFlip.git
+git clone https://github.com/alter005/MindFull-AI-powered-wellness.git
 cd MindFlip
 ```
 
@@ -100,13 +100,7 @@ cd MindFlip
 npm install
 ```
 
-### 3. Environment Configuration
-Create a `.env.local` file in the root directory:
-```env
-VITE_GEMINI_API_KEY=your_google_gemini_api_key_here
-```
-
-### 4. Start Development Server
+### 3. Start Development Server
 ```bash
 npm run dev
 ```
@@ -267,7 +261,7 @@ src/
 
 - **Website**: [MindfulChain](https://mind-flip-eta.vercel.app/)
 - **Email**: alternatemail005@gmail.com
-- **GitHub**: [Report issues and contribute](https://github.com/alter005/MindFlip.git)
+- **GitHub**: [Report issues and contribute](https://github.com/alter005/MindFull-AI-powered-wellness.git)
 - **Demo Video**:[Youtube Link](https://youtu.be/QqCsywVruaI)
 
 ---
