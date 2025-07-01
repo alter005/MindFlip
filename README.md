@@ -262,7 +262,7 @@ src/
 - **Website**: [MindfulChain](https://mind-flip-eta.vercel.app/)
 - **Email**: arpitnew12345@gmail.com
 - **GitHub**: [Report issues and contribute](https://github.com/alter005/MindFull-AI-powered-wellness.git)
-- **Demo Video**:[Youtube Link](https://youtu.be/QqCsywVruaI)
+- **Demo Video**:[Vimeo Link](https://vimeo.com/1097945602?share=copy)
 
 ---
 
