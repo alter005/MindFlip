@@ -1,9 +1,7 @@
 
-# 🧠 MindfulChain - AI-Powered Mental Wellness Platform
+# 🧠 Mindflip - AI-Powered Mental Wellness Platform
 
 > Transform your mental wellness journey with AI-powered insights, gamified assessments, and blockchain-verified achievements.
-
-![MindfulChain](/public/logo.png)
 
 ## ✨ Features
 
@@ -93,8 +91,8 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/arpit15006/MindFulChain-AI-Powered-Mental-Wellness.git
-cd MindFulChain-AI-Powered-Mental-Wellness
+git clone https://github.com/alter005/MindFlip.git
+cd MindFlip
 ```
 
 ### 2. Install Dependencies
@@ -267,9 +265,9 @@ src/
 
 ## 📞 Support & Contact
 
-- **Website**: [MindfulChain](https://mind-ful-chain-ai.vercel.app/)
-- **Email**: arpit6814@gmail.com
-- **GitHub**: [Report issues and contribute](https://github.com/arpit15006/MindFulChain-AI-Powered-Mental-Wellness.git)
+- **Website**: [MindfulChain](https://mind-flip-eta.vercel.app/)
+- **Email**: alternatemail005@gmail.com
+- **GitHub**: [Report issues and contribute](https://github.com/alter005/MindFlip.git)
 - **Demo Video**:[Youtube Link](https://youtu.be/QqCsywVruaI)
 
 ---
